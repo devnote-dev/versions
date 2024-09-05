@@ -1,0 +1,12 @@
+name: versions
+description: Version parsing and control shard
+authors:
+  - Devaune Whittle <https://github.com/devnote-dev>
+
+version: 0.1.0
+crystal: '>= 1.10.1'
+license: MIT
+
+development_dependencies:
+  ameba:
+    github: crystal-ameba/ameba
